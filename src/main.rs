@@ -2,7 +2,7 @@ fn main() {
     println!("Hello, world!");
     let ans = is_even(401);
     println!("{}" , ans);
-    // println!(ans); error
+    // println!(ans); error change name
 }
 
 fn is_even(num: i32) -> bool {
